@@ -1,0 +1,30 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Тесты
+.pytest_cache/
+.coverage
+
+# VS Code
+.vscode/
+
+# Операционная система
+Thumbs.db
+.Desktop.ini
+.DS_Store
+
+# Секреты (если позже появятся ключи API)
+.env
+*.key
