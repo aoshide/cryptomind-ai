@@ -28,3 +28,5 @@ Thumbs.db
 # Секреты (если позже появятся ключи API)
 .env
 *.key
+
+data/external/
